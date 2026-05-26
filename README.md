@@ -1,2 +1,3 @@
-# .github
-Open source computer vision toolbox 
+# computer vision open source project
+
+Work in progress
